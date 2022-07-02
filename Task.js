@@ -3,7 +3,7 @@ import React from 'react'
 export const Task = ({task}) => {
   return (
     <div className='task'>
-        <h3>{task}</h3>
+        <h3>another commit here: {task}</h3>
     </div>
   )
 }
